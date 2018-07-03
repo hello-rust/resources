@@ -1,4 +1,11 @@
-### Audio
+This repository collects royalty free resources for content creators.
+If you know of some other resource, could you please create a pull request? 😊
+
+### Sound effects
+
+* https://freesound.org/
+
+### Background Music
 
 * https://news.ycombinator.com/item?id=17132462
 * https://filmstro.com/music
@@ -8,6 +15,6 @@
 * http://www.mobygratis.com/
 * http://fesliyanstudios.com/
 
-### Video
+### Video Footage (B-Roll)
 
 * https://veed.me/blog/14-fantastically-free-sources-for-stock-video-footage/
