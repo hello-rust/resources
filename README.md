@@ -1,4 +1,4 @@
-This repository collects royalty free resources for content creators.
+This repository collects royalty free resources for content creators.  
 If you know of some other resource, could you please create a pull request? 😊
 
 ### Sound effects
