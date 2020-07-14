@@ -21,3 +21,4 @@ If you know of some other resource, could you please create a pull request? 😊
 
 * https://veed.me/blog/14-fantastically-free-sources-for-stock-video-footage/
 * https://www.videvo.net/
+* https://www.pexels.com
