@@ -14,7 +14,10 @@ If you know of some other resource, could you please create a pull request? 😊
 * https://icons8.com/music/
 * http://www.mobygratis.com/
 * http://fesliyanstudios.com/
+* https://www.jamendo.com/
+* https://freemusicarchive.org/
 
 ### Video Footage (B-Roll)
 
 * https://veed.me/blog/14-fantastically-free-sources-for-stock-video-footage/
+* https://www.videvo.net/
